@@ -1,0 +1,6 @@
+[submodule "Rust-Guessing-Game"]
+	path = Rust-Guessing-Game
+	url = https://github.com/adolfosp/Rust-Guessing-Game.git
+[submodule "Rust-Snake-Game"]
+	path = Rust-Snake-Game
+	url = https://github.com/adolfosp/Rust-Snake-Game.git
